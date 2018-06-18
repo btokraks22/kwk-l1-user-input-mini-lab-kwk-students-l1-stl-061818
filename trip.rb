@@ -1,6 +1,5 @@
 # Code your prompts here!
 puts "Let's plan your trip! Where would you like to stay?"
-puts "Hello, where would you like to stay?"
 place = gets
 puts "I hear #{place} is very nice! What attractions do you want to see?"
 attraction = gets
